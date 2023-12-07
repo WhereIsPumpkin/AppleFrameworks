@@ -14,6 +14,7 @@
 		758C2C852B21C0E8002F5AE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 758C2C842B21C0E8002F5AE3 /* Assets.xcassets */; };
 		758C2C872B21C361002F5AE3 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758C2C862B21C361002F5AE3 /* FrameworkDetailView.swift */; };
 		758C2C892B21C59B002F5AE3 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758C2C882B21C59B002F5AE3 /* AFButton.swift */; };
+		758C2C8B2B21C895002F5AE3 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758C2C8A2B21C895002F5AE3 /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		758C2C842B21C0E8002F5AE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		758C2C862B21C361002F5AE3 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		758C2C882B21C59B002F5AE3 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
+		758C2C8A2B21C895002F5AE3 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				758C2C692B20FAE5002F5AE3 /* frameworksApp.swift */,
 				758C2C6B2B20FAE5002F5AE3 /* FrameworkGridView.swift */,
+				758C2C8A2B21C895002F5AE3 /* FrameworkGridViewModel.swift */,
 				758C2C792B21BF1F002F5AE3 /* Framework.swift */,
 				758C2C862B21C361002F5AE3 /* FrameworkDetailView.swift */,
 				758C2C882B21C59B002F5AE3 /* AFButton.swift */,
@@ -151,6 +154,7 @@
 				758C2C7A2B21BF1F002F5AE3 /* Framework.swift in Sources */,
 				758C2C892B21C59B002F5AE3 /* AFButton.swift in Sources */,
 				758C2C6A2B20FAE5002F5AE3 /* frameworksApp.swift in Sources */,
+				758C2C8B2B21C895002F5AE3 /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
